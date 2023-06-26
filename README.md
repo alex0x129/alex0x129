@@ -52,7 +52,7 @@ I like programming and keep learning new technologies.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="35" alt="telegram logo"  />
   </a>
   <a href="contactto:live:.cid.f92c1772133bcfd4" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="35" alt="telegram logo"  />
+    <img src="/assets/skype.svg" width="50" height="35" alt="telegram logo"  />
   </a>
 </div>
 

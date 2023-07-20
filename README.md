@@ -79,14 +79,10 @@ I like programming and keep learning new technologies.
       https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
     "
   />
- <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
 </picture>
   
 <br clear="both">
 
-[![Code's github activity graph]](https://skyline.github.com/alex0x129)
+[![Code's github activity graph](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)](https://skyline.github.com/alex0x129)
 
 </div>
